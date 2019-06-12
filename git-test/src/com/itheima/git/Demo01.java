@@ -10,4 +10,10 @@ public class Demo01 {
         System.out.println("hello git");
         System.out.println("hello git");
     }
+    public void test(){
+
+        int i =1;
+        int b =2;
+        System.out.println(i+b);
+    }
 }
