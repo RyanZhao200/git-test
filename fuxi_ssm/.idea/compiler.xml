@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="deleDir" />
+        <module name="springmvc_day01_01" />
+        <module name="springmvc_day01_02" />
+        <module name="ssm02" />
+        <module name="ssmTemplate" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="deleDir" target="1.8" />
+      <module name="springmvc_day01_01" target="1.8" />
+      <module name="springmvc_day01_02" target="1.8" />
+      <module name="springmvc_day01_03" target="1.8" />
+      <module name="ssm" target="1.8" />
+      <module name="ssm02" target="1.8" />
+      <module name="ssmTemplate" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
