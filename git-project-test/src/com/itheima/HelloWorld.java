@@ -7,4 +7,9 @@ public class HelloWorld {
         System.out.println("Hello git...");
         System.out.println("Hello git...");
     }
+
+    public void test(){
+        int a=10;
+        int b=20;
+    }
 }

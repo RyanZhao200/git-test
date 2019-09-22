@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/demo01_jdbc/demo01_jdbc.iml" filepath="$PROJECT_DIR$/demo01_jdbc/demo01_jdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo02_factory/demo02_factory.iml" filepath="$PROJECT_DIR$/demo02_factory/demo02_factory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo03_spring/demo03_spring.iml" filepath="$PROJECT_DIR$/demo03_spring/demo03_spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo04_bean/demo04_bean.iml" filepath="$PROJECT_DIR$/demo04_bean/demo04_bean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo05_DI/demo05_DI.iml" filepath="$PROJECT_DIR$/demo05_DI/demo05_DI.iml" />
+    </modules>
+  </component>
+</project>
